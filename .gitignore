@@ -182,3 +182,4 @@ cython_debug/
 Delopgave-2/WARNING
 Delopgave-2/ERROR
 *.txt
+Delopgave-3/dest_data.csv
